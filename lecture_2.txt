@@ -1,0 +1,9 @@
+notes from lecture 2, 
+date feb 4th
+
+1. introducted data visualizatio and the story telling with the data
+2. DV is a technique used to communicate visual data which can help to answer or discover through data
+3. difefrence between story telling and data visualization
+4. different types of DV charts, text table, highlighted table, horizantal/vertical table, grant chart etc.
+5. some dos and dont of DV
+6. ethics in DV, it help to support evidence.
