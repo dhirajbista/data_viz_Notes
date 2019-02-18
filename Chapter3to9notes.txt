@@ -1,0 +1,32 @@
+*Chapter 3....clutter is your enemy
+
+-should identify clutter (a condition of disorder or a lot of objects that are in a state of disorder) and eliminate it from our visual communications
+-clutter can create excessive cognitive load
+-Clutter makes our visuals appear more complicated than necessary
+-The Gestalt Principles of Visual Perception help us to identify clutter and leverage how our audience sees
+-Alignment, strategic use of white space, and contrast as important components of thoughtful design
+
+*Chapter 4.....focus your audience's attention
+
+-Useful to understand how people visually process information and leverage this knowledge when crafting visuals.
+-Sight and memory helps to act to frame up the importance of preattentive attributes like size, color, and position on page
+-Preattentive attributes can be used strategically to help direct our audience's attention and help them lead in the way we want to process through the related visual information.
+-Color as a strategic tool is covered in depth. 
+-Concepts are illustrated by example.
+
+*Chapter 5..... Think like a Designer
+
+-Form follows function
+-This adage of product design has clear application to communicating with data
+-When it comes to the form and function of our data visualizations, we first want to think about what it as if we want our audience to be able to do with the data (function) and create a visualization (form) that will allow for this with ease
+-Different traditional design concepts can be applied to communicating with data
+-Affordances, accessibility, and aesthetics, drawing on a number of concepts introduced previously, but looking at them through a slightly different lens
+-Difefrent strategies that can help us to gain the audience acceptance of our visual designs.
+
+*Chapter 6.....Dissecting Model Visuals
+
+-We can learn a lot thorough examination of effective visual displays
+-This chapter explains about the five exemplary visuals and discuss the specific thought process and design choices that led to their creation, utilizing the lessons covered up to this point
+-We explore decisions regarding the type of graph and ordering of data within the visual
+-We consider choices around what and how to emphasize and de-emphasize through use of color, thickness of lines, and relative size
+-Different alignment and positioning of elements and also the effective use of text to title, label, and annotate
